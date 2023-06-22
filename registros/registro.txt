@@ -1,0 +1,59 @@
+Empresa:
+CNPJ: 22199353436
+Nome da Empresa: Investe Ja
+Endereço: Rua Sem Nome N° 1788, Rio de Janeiro, RJ
+Telefone: 21 992753345
+
+Colaborador:
+Matrícula: 1346
+CNPJ: 22199353436
+ID-Área: 9
+ID-Tecnologia: 2
+Nome do Colaborador: Francisco de Melo
+
+Área:
+ID-Área: 9
+Nome da Área: Desenvolvimento Web
+
+Tecnologia:
+ID-Tecnologia: 2
+ID-Área: 9
+Nome da Tecnologia: Java
+
+Sistema ResiliaData:
+ID-Registro: 153
+CNPJ: 22199353436
+Matrícula: 1346
+ID-Área: 9
+ID-Tecnologia: 2
+
+#########
+
+Empresa:
+CNPJ: 62199553431
+Nome da Empresa: JS INVEST
+Endereço: Rua dos Finados N° 1868, Rio de Janeiro, RJ
+Telefone: 21 992453372
+
+Colaborador:
+Matrícula: 2341
+CNPJ: 62199553431
+ID-Área: 3
+ID-Tecnologia: 1
+Nome do Colaborador: José de Melo
+
+Área:
+ID-Área: 3
+Nome da Área: Dados
+
+Tecnologia:
+ID-Tecnologia: 1
+ID-Área: 3
+Nome da Tecnologia: MySQL
+
+Sistema ResiliaData:
+ID-Registro: 154
+CNPJ: 62199553431
+Matrícula: 2341
+ID-Área: 9
+ID-Tecnologia: 1
