@@ -1,5 +1,5 @@
 # Projeto Individual Módulo III
-## O projeto foi desenvolvido como trabalho de modelagem de banco de dados. Módulo 3 do curso Analista de Dados na Resilia Educação
+## O projeto foi desenvolvido como trabalho de modelagem de banco de dados. Módulo III do curso Analista de Dados na Resilia Educação
 Nesse projeto foi desenvolvida a modelagem de banco de dados onde temos um sistema chamado ResiliaData
 em que o sistema vai auxiliar na avaliação de quais são as tecnologias que as empresas parceiras
 estão utilizando e quem são seus colaboradores.
