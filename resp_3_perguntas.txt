@@ -1,0 +1,19 @@
+1.Quais são as entidades necessárias? As entidades necessárias são:
+Empresas
+Área
+tecnologia
+colaborador
+Sistema ResiliaData
+
+2. Quais são os principais campos e seus respectivos tipos?
+Empresas: CNPJ (PK, tipo: texto), nome da empresa (tipo: texto), endereço (tipo: texto), telefone (tipo: texto)
+Área: id-area (PK, tipo: numérico), nome da área (tipo: texto)
+Tecnologia: id-tecnologia (PK, tipo: numérico), id-area (FK, tipo: numérico), nome da tecnologia (tipo: texto)
+Colaborador: matrícula (PK, tipo: numérico), CNPJ (FK, tipo: texto), id-area (FK, tipo: numérico), id-tecnologia (FK, tipo: numérico), nome do colaborador (tipo: texto)
+Sistema ResiliaData: id-registro (PK, tipo: numérico), CNPJ (FK, tipo: texto), matrícula (FK, tipo: numérico), id-area (FK, tipo: numérico), id-tecnologia (FK, tipo : numérico)
+
+3.Como essas entidades estão relacionadas?
+A entidade "Empresas" tem um relacionamento 1 para N com a entidade "Área".
+A entidade "Empresas" tem um relacionamento 1 para N com a entidade "Tecnologia".
+A entidade "Tecnologia" tem um relacionamento 1 para N com a entidade "Colaborador".
+A entidade "Colaborador" tem um relacionamento N para N com a entidade "Empresas" através da tabela associativa "Sistema ResiliaData".
