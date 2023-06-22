@@ -1,0 +1,61 @@
+EMPRESA
+22199353436
+Investe ja
+rua sem nome N° 1788, Rio de Janeiro, Rj
+21 992753345
+
+COLABORADOR
+1346
+22199353436
+9
+2
+Francisco de Melo
+
+ARÉA
+9
+Desenvolvimento web
+
+TECNOLOGIA
+2
+9
+java
+
+SISTEMA_RESILIADATA
+153
+22199353436
+1346
+9
+2
+
+
+###*###*###*###*###*###*###*###*###
+
+
+EMPRESA
+62199553431
+JS INVEST
+rua dos finados N° 1868, Rio de Janeiro, Rj
+21 992453372
+
+COLABORADOR
+2341
+62199553431
+3
+1
+jose de Melo
+
+ARÉA
+3
+DADOS
+
+TECNOLOGIA
+1
+3
+MYSQL
+
+SISTEMA_RESILIADATA
+154
+62199553431
+2341
+9
+1
