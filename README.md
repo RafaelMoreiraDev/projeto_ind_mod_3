@@ -8,13 +8,13 @@ Durante o desenvolvimento do projeto foi usado a ferramenta de diagramação:
 
 E foi feito um arquivo com o nome registro.txt com o preenchimento dos dados de dois registros para cada entidade
 e outro arquivo .txt com o nome resp_3_perguntas.txt respondendo as 3 perguntas propostas no desafio que são:
----
+
 1. Quais são as entidades necessárias?
 2. Quais são os principais campos e seus respectivos tipos?
 3. Como essas entidades estão relacionadas?
 ---
 
-### Nos arquivos do repositória tem os prints das modelagens usando o Modelo Lógico e Modelo Conceitual
+### Nos arquivos do repositório no diretório modelagens tem os prints das modelagens usando o Modelo Lógico e Modelo Conceitual
 que foram utilizados na modelagem
 
 ## Contatos para projetos, dúvidas e sugestões
