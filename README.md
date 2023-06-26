@@ -14,8 +14,7 @@ e outro arquivo .txt com o nome resp_3_perguntas.txt respondendo as 3 perguntas 
 3. Como essas entidades estão relacionadas?
 ---
 
-### Nos arquivos do repositório no diretório modelagens tem os prints das modelagens usando o Modelo Estrela e Modelo Conceitual
-que foram utilizados na modelagem
+### Nos arquivos do repositório no diretório modelagens tem os prints das modelagens usando o Modelo Estrela e Modelo Conceitual que foram utilizados na modelagem
 
 ## Contatos para projetos, dúvidas e sugestões
 - LinkedIn: [https://www.linkedin.com/in/rafael-antonio-759a04241/](https://www.linkedin.com/in/rafael-antonio-759a04241/)
