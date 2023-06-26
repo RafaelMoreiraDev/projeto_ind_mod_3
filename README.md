@@ -1,8 +1,8 @@
 # Projeto Modelagem de Dados
 ## O projeto foi desenvolvido como trabalho de modelagem de banco de dados. Módulo III do curso Analista de Dados na Resilia Educação
 Nesse projeto foi desenvolvida a modelagem de banco de dados onde temos um sistema chamado ResiliaData
-em que o sistema vai auxiliar na avaliação de quais são as tecnologias que as empresas parceiras
-estão utilizando e quem são seus colaboradores.
+em que o sistema vai auxiliar na avaliação de quais são as tecnologias que as empresas parceiras estão utilizando e quem são seus colaboradores.
+
 Durante o desenvolvimento do projeto foi usado a ferramenta de diagramação:
 [https://app.diagrams.net/](https://app.diagrams.net/)
 
