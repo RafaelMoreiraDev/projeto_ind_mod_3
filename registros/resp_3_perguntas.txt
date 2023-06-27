@@ -17,3 +17,6 @@ A entidade "Empresas" tem um relacionamento 1 para N com a entidade "Área".
 A entidade "Empresas" tem um relacionamento 1 para N com a entidade "Tecnologia".
 A entidade "Tecnologia" tem um relacionamento 1 para N com a entidade "Colaborador".
 A entidade "Colaborador" tem um relacionamento 1 para N com a entidade "Empresas" através da tabela associativa "Sistema ResiliaData".
+
+
+
